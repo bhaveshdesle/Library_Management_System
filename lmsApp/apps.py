@@ -1,4 +1,3 @@
-import imp
 from django.apps import AppConfig
 
 
